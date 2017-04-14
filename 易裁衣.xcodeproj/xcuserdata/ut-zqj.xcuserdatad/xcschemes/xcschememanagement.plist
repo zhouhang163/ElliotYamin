@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TodayWidget.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>TodayWidgetDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>易裁衣.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +22,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>955627011E8F7AFE00AA8194</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9564E7571E7F75CF003721E6</key>
 		<dict>
 			<key>primary</key>
@@ -23,6 +38,11 @@
 			<true/>
 		</dict>
 		<key>9564E77B1E7F75D0003721E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>958504351E8F8ACA0023E4DD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
